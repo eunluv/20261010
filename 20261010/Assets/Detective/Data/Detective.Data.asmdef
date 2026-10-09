@@ -1,0 +1,16 @@
+{
+    "name": "Detective.Data",
+    "rootNamespace": "Detective.Data",
+    "references": [
+        "Detective.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

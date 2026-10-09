@@ -1,0 +1,20 @@
+{
+    "name": "Detective.Editor",
+    "rootNamespace": "Detective.Editor",
+    "references": [
+        "Detective.Core",
+        "Detective.Data",
+        "Detective.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

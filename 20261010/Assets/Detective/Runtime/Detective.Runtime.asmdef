@@ -1,0 +1,17 @@
+{
+    "name": "Detective.Runtime",
+    "rootNamespace": "Detective.Runtime",
+    "references": [
+        "Detective.Core",
+        "Detective.Data"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
