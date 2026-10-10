@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa03a27ac859444d948183fe9820f39, type: 3}
+  m_Name: Rule_not_outdoor
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.ClueRule
+  id: not_outdoor
+  constraintType: 2
+  axisA: place
+  axisB: 
+  tag: {fileID: 11400000, guid: 0945bdad3d4fd2b43b6cf8346d796db3, type: 2}
+  tagCategory: 
+  optionX: {fileID: 0}
+  optionY: {fileID: 0}
+  openTag: 0
+  openOptionX: 1
+  openOptionY: 1
+  textVariants:
+  - "\uBB3C\uAC74\uC5D0\uB294 \uBB3C\uAE30 \uD558\uB098 \uC5C6\uC5C8\uB2E4. \uC624\uB298\uC740 \uC624\uD6C4 \uB0B4\uB0B4 \uBE44\uAC00 \uC654\uB294\uB370."
+  - "\uC228\uAE34 \uACF3\uC740 \uC9C0\uBD95\uC774 \uC788\uB294 \uACF3\uC774\uB2E4. \uBB3C\uAC74\uC5D0 \uBB3B\uC740 \uAC74 \uBE57\uBB3C\uC774 \uC544\uB2C8\uB77C \uC5D0\uC5B4\uCEE8 \uBB3C\uC774\uC5C8\uB2E4."
+  - "\uBC16\uC740 \uC544\uB2C8\uC5D0\uC694. \uC624\uB298 \uBC14\uAE65\uC740 \uD48D\uBB3C\uD328\uAC00 \uC810\uB839\uD574\uC11C \uC228\uAE38 \uD2C8\uC774 \uC5C6\uC5C8\uC5B4\uC694."
+  sources: 1
+  difficultyWeight: 1
+  easyWeight: 1
+  hardWeight: 1

@@ -5,7 +5,8 @@
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
         "Detective.Core",
-        "Detective.Data"
+        "Detective.Data",
+        "Detective.Runtime"
     ],
     "includePlatforms": [
         "Editor"

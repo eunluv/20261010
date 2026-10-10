@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e18f53cffa8dd41916df76fa05dec0, type: 3}
+  m_Name: Case_festival_missing_mascot
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.CaseTemplate
+  id: festival_missing_mascot
+  title: "\uB9C8\uC2A4\uCF54\uD2B8 \uBA38\uB9AC \uC2E4\uC885"
+  requestText: "\uCD95\uC81C \uB9C8\uC2A4\uCF54\uD2B8 \uC778\uD615\uC758 \uBA38\uB9AC\uAC00 \uC0AC\uB77C\uC84C\uC5B4\uC694! \uBAB8\uD1B5\uB9CC \uB0A8\uC740 \uCC44\uB85C \uAD50\uBB38\uC5D0 \uC11C \uC788\uC5B4\uC11C \uC2E0\uC785\uC0DD\uB4E4\uC774 \uC6B8\uACE0 \uC788\uB2E4\uACE0\uC694."
+  axes:
+  - axisId: culprit
+    kind: 0
+    requiredTags: []
+    pickCount: 4
+  - axisId: place
+    kind: 1
+    requiredTags: []
+    pickCount: 4
+  - axisId: item
+    kind: 2
+    requiredTags: []
+    pickCount: 4
+  rules:
+  - {fileID: 11400000, guid: 49126306567ff7a418fb142f883e4212, type: 2}
+  - {fileID: 11400000, guid: e68b5c0262e05cc46bca1a0cab447b05, type: 2}
+  - {fileID: 11400000, guid: 63c4e90fe5b5a2a44aa64362bee6ad6c, type: 2}
+  - {fileID: 11400000, guid: a8784d7483a4b2a4baafe6aac995d25c, type: 2}
+  - {fileID: 11400000, guid: a82c1222d37bc5945bfcd48b1d2f86cd, type: 2}
+  - {fileID: 11400000, guid: ae06e3ab2621c8c47a83f9fdb00f4013, type: 2}
+  - {fileID: 11400000, guid: e95dffe3899375f429d33e4f12140246, type: 2}
+  - {fileID: 11400000, guid: 66a684c842c546e47b688af894f82072, type: 2}
+  - {fileID: 11400000, guid: 3254f60df092e774aa5450f0d7d7a673, type: 2}
+  timeSlots:
+  - "13\uC2DC"
+  - "14\uC2DC"
+  - "15\uC2DC"
+  - "16\uC2DC"
+  crimeSlotIndex: 2
+  actionPoints: 8
+  actionMargin: 1
+  lieCount: 2
+  redHerringCount: 1
+  difficulty: 1
+  flow: {fileID: 11400000, guid: 042ff982bc2574d45b3d5a7be0f87735, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40cd07cbfed3a7c4ab26ccf21969d487, type: 3}
+  m_Name: Entity_broadcast_member
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.EntityDef
+  id: broadcast_member
+  displayName: "\uBC29\uC1A1\uBD80\uC6D0"
+  kind: 0
+  tags:
+  - {fileID: 11400000, guid: 2fc0e112b3100b8438b2643ca5255331, type: 2}
+  - {fileID: 11400000, guid: 49a76018873f3a5418f7b3855a66dca7, type: 2}
+  - {fileID: 11400000, guid: 5a4e76d894a49a4478b6ea7744e7c353, type: 2}
+  portrait: {fileID: 0}
+  description: "\uAD50\uB0B4 \uBC29\uC1A1\uC744 \uC6B4\uBA85\uC758 \uC804\uD30C\uB77C\uACE0 \uBD80\uB974\uB294 \uC9112\uBCD1."

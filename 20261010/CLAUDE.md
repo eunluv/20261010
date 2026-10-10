@@ -24,7 +24,7 @@
   - `Detective.Data`: Core 참조. ScriptableObject 정의와 Core 변환기.
   - `Detective.Runtime`: Core, Data 참조.
   - `Detective.Editor`: Editor 플랫폼 전용. Core, Data, Runtime 참조.
-  - `Detective.Tests`: EditMode 테스트. Core와 Data 참조, Unity Test Framework 사용.
+  - `Detective.Tests`: EditMode 테스트. Core, Data, Runtime 참조(Runtime은 `CaseSession`·`FlowRunner` 자동 플레이 테스트용), Unity Test Framework 사용.
 - 팩은 데이터 에셋만 담는다. 새 팩 = `Assets/Packs/` 아래 폴더 하나 추가.
 
 ## 결정성

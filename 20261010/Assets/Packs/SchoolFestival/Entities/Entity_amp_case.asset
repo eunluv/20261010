@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40cd07cbfed3a7c4ab26ccf21969d487, type: 3}
+  m_Name: Entity_amp_case
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.EntityDef
+  id: amp_case
+  displayName: "\uC570\uD504 \uCF00\uC774\uC2A4"
+  kind: 2
+  tags:
+  - {fileID: 11400000, guid: 244f6530e7a6c9a44ba9f143e9c5f698, type: 2}
+  portrait: {fileID: 0}
+  description: "\uC570\uD504\uBCF4\uB2E4 \uCF00\uC774\uC2A4\uAC00 \uB354 \uBB34\uAC81\uB2E4\uB294 \uC18C\uBB38."

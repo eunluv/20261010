@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c5ddc843f02a814c988d1791688bf94, type: 3}
+  m_Name: Suspect_cooking_freshman
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.SuspectProfile
+  entity: {fileID: 11400000, guid: 4dc4a3db62340e744813501203c35628, type: 2}
+  catchphrase: "\uC8C4, \uC8C4\uC1A1\uD574\uC694\u2026"
+  lieStyle: 1
+  smallTalkLines:
+  - "\uD478\uB529\uC740\u2026 \uC81C\uAC00 \uB9CC\uB4E0 \uAC74 \uB9DE\uB294\uB370 \uB9DD\uCE5C \uAC74 \uC81C\uAC00 \uC544\uB2C8\uC5D0\uC694. \uC8C4\uC1A1\uD574\uC694."
+  - "\uC120\uBC30\uB4E4\uC774 \uAC04 \uBCF4\uB77C\uACE0 \uD574\uC11C \uBCF8 \uAC70\uC608\uC694. \uC2A4\uBB34 \uBC88\uCBE4\u2026 \uC8C4\uC1A1\uD574\uC694."

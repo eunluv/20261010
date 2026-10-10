@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa03a27ac859444d948183fe9820f39, type: 3}
+  m_Name: Rule_alibi
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.ClueRule
+  id: alibi
+  constraintType: 0
+  axisA: culprit
+  axisB: 
+  tag: {fileID: 0}
+  tagCategory: 
+  optionX: {fileID: 0}
+  optionY: {fileID: 0}
+  openTag: 0
+  openOptionX: 1
+  openOptionY: 1
+  textVariants:
+  - "{time}\uC5D0 {suspect} \uBCF8 \uC0AC\uB78C \uC190! \u2026{place2}\uC5D0\uC11C \uD56B\uB3C4\uADF8 \uC138 \uAC1C\uB97C \uB4E4\uACE0 \uC788\uC5C8\uB2E4\uB294 \uC81C\uBCF4\uAC00 \uC5F4\uB450 \uAC74."
+  - "{suspect}\uC758 SNS\uC5D0 {time} \uC815\uAC01 \uC778\uC99D\uC0F7\uC774 \uC62C\uB77C\uC640 \uC788\uB2E4. \uBC30\uACBD\uC740 {place2}. \uBE0C\uC774\uAE4C\uC9C0 \uD558\uACE0 \uC788\uC5B4\uC11C \uBC18\uBC15\uC774 \uBD88\uAC00\uB2A5\uD558\uB2E4."
+  - "{suspect}\uD55C\uD14C\uB294 \uC54C\uB9AC\uBC14\uC774\uAC00 \uC788\uB2E4. {time}\uC5D0 {place2}\uC5D0\uC11C \uB2F4\uC784\uD55C\uD14C \uBD99\uC7A1\uD600 30\uBD84\uC9F8 \uC9C4\uB85C \uC0C1\uB2F4\uC744 \uB2F9\uD558\uACE0 \uC788\uC5C8\uB2E4."
+  - "\uADF8 \uC2DC\uAC04\uC5D0 {suspect}\uB3C4 \uBD24\uC5B4\uC694. {place2}\uC5D0\uC11C \uD48D\uC120\uC744 \uD130\uB728\uB9AC\uB2E4\uAC00 \uC790\uAE30\uAC00 \uD130\uB728\uB824 \uB193\uACE0 \uB180\uB77C \uB118\uC5B4\uC9C0\uB358\uB370\uC694."
+  sources: 2
+  difficultyWeight: 1
+  easyWeight: 2
+  hardWeight: 0.5

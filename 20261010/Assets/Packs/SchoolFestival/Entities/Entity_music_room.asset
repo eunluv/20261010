@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40cd07cbfed3a7c4ab26ccf21969d487, type: 3}
+  m_Name: Entity_music_room
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.EntityDef
+  id: music_room
+  displayName: "\uC74C\uC545\uC2E4"
+  kind: 1
+  tags:
+  - {fileID: 11400000, guid: 244f6530e7a6c9a44ba9f143e9c5f698, type: 2}
+  - {fileID: 11400000, guid: 49a76018873f3a5418f7b3855a66dca7, type: 2}
+  - {fileID: 11400000, guid: cf571f6950b7f18489ade3a5cc7bc459, type: 2}
+  portrait: {fileID: 0}
+  description: "\uACBD\uC74C\uBD80 \uC5F0\uC2B5\uC2E4. \uBC29\uC74C\uC740 \uAE30\uBD84\uB9CC \uB0B8\uB2E4."

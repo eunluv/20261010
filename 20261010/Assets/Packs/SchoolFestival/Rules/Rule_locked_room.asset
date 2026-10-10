@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa03a27ac859444d948183fe9820f39, type: 3}
+  m_Name: Rule_locked_room
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.ClueRule
+  id: locked_room
+  constraintType: 0
+  axisA: place
+  axisB: 
+  tag: {fileID: 0}
+  tagCategory: 
+  optionX: {fileID: 0}
+  optionY: {fileID: 0}
+  openTag: 0
+  openOptionX: 1
+  openOptionY: 1
+  textVariants:
+  - "{place} \uBB38\uC5D0\uB294 '\uD398\uC778\uD2B8\uCE60 \uC911. \uB9CC\uC9C0\uBA74 \uBC18\uC131\uBB38'\uC774\uB77C\uB294 \uC885\uC774\uAC00 \uD558\uB8E8 \uC885\uC77C \uBD99\uC5B4 \uC788\uC5C8\uB2E4."
+  - "{place} \uC5F4\uC1E0\uB294 \uC624\uD6C4 \uB0B4\uB0B4 \uAD50\uBB34\uC2E4 \uC11C\uB78D \uC548\uC5D0 \uC788\uC5C8\uB2E4. \uADF8 \uC11C\uB78D \uC5F4\uC1E0\uB294 \uAD50\uAC10 \uC120\uC0DD\uB2D8 \uC8FC\uBA38\uB2C8 \uC548\uC5D0 \uC788\uC5C8\uACE0."
+  - "{place}\uC5D0\uB294 \uC544\uBB34\uB3C4 \uBABB \uB4E4\uC5B4\uAC14\uC5B4\uC694. \uBB38 \uC55E\uC5D0\uC11C \uB304\uC2A4\uBD80\uAC00 \uC138 \uC2DC\uAC04\uC9F8 \uAC19\uC740 \uC548\uBB34\uB97C \uD2C0\uB9AC\uACE0 \uC788\uC5C8\uAC70\uB4E0\uC694."
+  sources: 3
+  difficultyWeight: 1
+  easyWeight: 2
+  hardWeight: 0.5

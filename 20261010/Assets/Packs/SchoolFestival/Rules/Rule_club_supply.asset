@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa03a27ac859444d948183fe9820f39, type: 3}
+  m_Name: Rule_club_supply
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.ClueRule
+  id: club_supply
+  constraintType: 3
+  axisA: item
+  axisB: place
+  tag: {fileID: 0}
+  tagCategory: club
+  optionX: {fileID: 0}
+  optionY: {fileID: 0}
+  openTag: 0
+  openOptionX: 1
+  openOptionY: 1
+  textVariants:
+  - "\uC5C6\uC5B4\uC9C4 \uBB3C\uAC74\uC744 \uC62E\uAE34 \uB3C4\uAD6C\uB294 \uADF8 \uC7A5\uC18C\uB97C \uC4F0\uB294 \uB3D9\uC544\uB9AC\uC758 \uBE44\uD488\uC774\uB2E4. \uBC14\uB2E5\uC5D0 \uB04C\uB9B0 \uC790\uAD6D\uC774 \uB531 \uB9DE\uB294\uB2E4."
+  - "\uB3C4\uAD6C\uB97C \uBA40\uB9AC\uC11C \uB4E4\uACE0 \uC628 \uD754\uC801\uC774 \uC5C6\uB2E4. \uD604\uC7A5\uC5D0 \uC6D0\uB798 \uC788\uB358 \uAC78 \uADF8\uB300\uB85C \uC4F4 \uBAA8\uC591\uC774\uB2E4."
+  - "\uBC94\uC778\uC740 \uB0A8\uC758 \uB3D9\uC544\uB9AC \uBB3C\uAC74\uC5D0\uB294 \uC190\uB300\uC9C0 \uC54A\uC558\uB2E4. \uADF8 \uBC29\uC5D0 \uC788\uB358 \uBE44\uD488\uC744 \uC37C\uB2E4. \uC608\uC758\uB294 \uBC14\uB978 \uD3B8."
+  sources: 1
+  difficultyWeight: 1
+  easyWeight: 0.7
+  hardWeight: 1.5

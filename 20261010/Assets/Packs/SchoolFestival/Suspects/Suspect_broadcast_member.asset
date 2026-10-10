@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c5ddc843f02a814c988d1791688bf94, type: 3}
+  m_Name: Suspect_broadcast_member
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.SuspectProfile
+  entity: {fileID: 11400000, guid: 8807d36a14a2cc14c9b5005a13200034, type: 2}
+  catchphrase: "\uC774\uAC83\uB3C4 \uC6B4\uBA85\uC758 \uC8FC\uD30C\uC218\uC778\uAC00\u2026"
+  lieStyle: 2
+  smallTalkLines:
+  - "\uAD50\uB0B4 \uBC29\uC1A1\uC740 \uC138\uACC4\uB97C \uD5A5\uD55C \uB0B4 \uCCAB \uBC88\uC9F8 \uC804\uD30C\uB2E4. \uD604\uC7AC \uCCAD\uCDE8\uC790\uB294 \uAE09\uC2DD\uC2E4\uC758 \uC5F4\uB450 \uBA85."
+  - "\uB9C8\uC774\uD06C\uB97C \uC950\uBA74 \uC67C\uC190\uC774 \uC6B1\uC2E0\uAC70\uB824. \uBD09\uC778\uC774 \uD480\uB9AC\uB824\uB294 \uAC70\uC9C0. \u2026\uAC74\uCD08\uC5FC? \uADF8\uB7F0 \uC774\uB984\uC73C\uB85C \uBD80\uB974\uC9C0 \uB9C8."

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa03a27ac859444d948183fe9820f39, type: 3}
+  m_Name: Rule_floor_sighting
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.ClueRule
+  id: floor_sighting
+  constraintType: 1
+  axisA: culprit
+  axisB: 
+  tag: {fileID: 0}
+  tagCategory: floor
+  optionX: {fileID: 0}
+  optionY: {fileID: 0}
+  openTag: 1
+  openOptionX: 1
+  openOptionY: 1
+  textVariants:
+  - "{tag}\uC5D0\uC11C \uC218\uC0C1\uD55C \uADF8\uB9BC\uC790\uB97C \uBD24\uC5B4\uC694. \uADF8 \uCE35 \uC0AC\uB78C\uC774 \uC544\uB2C8\uBA74 \uADF8\uB807\uAC8C \uC790\uC5F0\uC2A4\uB7FD\uAC8C \uBABB \uC228\uC5B4\uC694."
+  - "\uBC94\uC778\uC740 {tag}\uC5D0 \uB3D9\uC544\uB9AC\uBC29\uC774 \uC788\uB294 \uC0AC\uB78C\uC774\uB2E4. \uC2E4\uB0B4\uD654 \uC8FC\uBA38\uB2C8\uAC00 \uADF8\uCABD \uC2E0\uBC1C\uC7A5\uC5D0\uC11C \uB098\uC654\uB2E4."
+  - "{tag}\uC5D0\uC11C \uB298 \uBCF4\uB358 \uC5BC\uAD74\uC774\uC5C8\uB300\uC694. \uB204\uAD70\uC9C0\uB294 \uAE30\uC5B5 \uC548 \uB098\uB294\uB370 '\uB610 \uC7E4\uB124 \uB3D9\uC544\uB9AC\uB124' \uC2F6\uC5C8\uB2E4\uACE0."
+  sources: 6
+  difficultyWeight: 1
+  easyWeight: 1
+  hardWeight: 1

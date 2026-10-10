@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c5ddc843f02a814c988d1791688bf94, type: 3}
+  m_Name: Suspect_art_captain
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.SuspectProfile
+  entity: {fileID: 11400000, guid: 150ade3365938fc4baa30dc3480e26da, type: 2}
+  catchphrase: "\uBC94\uC778\uC740 \uC774\uBBF8 \uC54C\uACE0 \uC788\uC9C0."
+  lieStyle: 0
+  smallTalkLines:
+  - "\uCD94\uB9AC\uB294 \uAD00\uCC30\uC774\uC57C. \uB09C \uC625\uC0C1\uC5D0\uC11C \uC804\uAD50\uB97C \uB0B4\uB824\uB2E4\uBCF4\uAC70\uB4E0. \uC624\uB298\uC740 \uBE44 \uC640\uC11C \uC548 \uC62C\uB77C\uAC14\uC9C0\uB9CC."
+  - "\uB108\uD76C \uC0AC\uBB34\uC18C, \uC544\uC9C1\uB3C4 \uC6D4\uC138 \uBC00\uB838\uB2E4\uBA70? \uC774\uBC88 \uC870\uC0AC\uBE44\uB294 \uB0B4\uAC00 \uB0BC\uAE4C?"

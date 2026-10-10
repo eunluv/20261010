@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa03a27ac859444d948183fe9820f39, type: 3}
+  m_Name: Rule_seen_heading
+  m_EditorClassIdentifier: Detective.Data::Detective.Data.ClueRule
+  id: seen_heading
+  constraintType: 4
+  axisA: culprit
+  axisB: place
+  tag: {fileID: 0}
+  tagCategory: 
+  optionX: {fileID: 0}
+  optionY: {fileID: 0}
+  openTag: 0
+  openOptionX: 1
+  openOptionY: 1
+  textVariants:
+  - "{suspect} \uC9D3\uC774\uB77C\uBA74 \uC7A5\uC18C\uB294 {place}\uBC16\uC5D0 \uC5C6\uC5B4\uC694. \uB2E4\uB978 \uB370\uB294 \uAC08 \uC904\uB3C4 \uBAA8\uB974\uB294 \uC0AC\uB78C\uC774\uB77C."
+  - "\uB9CC\uC57D {suspect}\uC758 \uC18C\uD589\uC774\uB77C\uBA74 \uBB3C\uAC74\uC740 {place}\uC5D0 \uC788\uC744 \uAC70\uB2E4. \uADF8\uCABD \uC5F4\uC1E0\uB97C \uAC00\uC9C4 \uAC8C \uADF8 \uC0AC\uB78C\uBFD0\uC774\uB2C8\uAE4C."
+  - "'{suspect} \uBC94\uC778\uC124\uC774 \uB9DE\uB2E4\uBA74 \uD604\uC7A5\uC740 {place}!'\uB77C\uACE0 \uC2E0\uBB38\uBD80\uAC00 \uD638\uC678\uB97C \uBFCC\uB9AC\uACE0 \uC788\uB2E4. \uADFC\uAC70\uB294 \uAF64 \uD0C4\uD0C4\uD558\uB2E4."
+  sources: 6
+  difficultyWeight: 1
+  easyWeight: 0.5
+  hardWeight: 2
